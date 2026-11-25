@@ -14,7 +14,7 @@
     "keys": true
   },
 
-  "gameModes": ["survival", "lifesteal", "ffa", "economy"],
+  "gameModes": ["lifesteal"],
   "_gameModesHelp": "Which game-mode cards show in the Server features section on the homepage. Available: survival, lifesteal, ffa, economy.",
 
   "hero": {
