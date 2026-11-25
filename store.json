@@ -71,12 +71,23 @@
           "badge": "Popular"
         },
         {
-          "name": "12,000 coins",
-          "amount": "12K",
+          "name": "10,000 coins",
+          "amount": "10K",
           "image": "assets/coin.png",
-          "price": { "INR": 799, "USD": 9.99 },
+          "price": { "INR": 799, "USD": 99.99 },
           "colour": "orange",
           "tagline": "Best value for regular players.",
+          "perks": ["10,000 in-game coins", "+2,000 bonus coins"],
+          "featured": false,
+          "badge": "Most Popular"
+        },
+        {
+          "name": "20,000 coins",
+          "amount": "20K",
+          "image": "assets/coin.png",
+          "price": { "INR": 799, "USD": 9.99 },
+          "colour": "red",
+          "tagline": "Get Rich, Get Fruity. 20K Coins Await!.",
           "perks": ["12,000 in-game coins", "+2,000 bonus coins"],
           "featured": false,
           "badge": "Best value"
@@ -135,26 +146,26 @@
 
   "ranks": [
     {
-      "name": "VIP",
-      "price": { "INR": 449, "USD": 4.99 },
+      "name": "SWAN",
+      "price": { "INR": 99, "USD": 1.09 },
       "colour": "gold",
       "tagline": "A perfect first step to support the server.",
       "perks": [
         "Coloured name in chat",
         "2 extra /home slots",
         "/fly in the lobby",
-        "VIP role in Discord"
+        "SWAN role in Discord"
       ],
       "featured": false,
       "badge": ""
     },
     {
-      "name": "VIP+",
-      "price": { "INR": 749, "USD": 7.99 },
+      "name": "ROBIN",
+      "price": { "INR": 199, "USD": 1.09 },
       "colour": "#a855f7",
       "tagline": "More homes, more commands, more fun.",
       "perks": [
-        "Everything in VIP",
+        "Everything in Swan",
         "5 extra /home slots",
         "Access to /workbench and /enderchest",
         "Priority queue when the server is full",
@@ -164,27 +175,27 @@
       "badge": ""
     },
     {
-      "name": "MVP",
-      "price": { "INR": 899, "USD": 9.99 },
+      "name": "DOVE",
+      "price": { "INR": 399, "USD": 2.19 },
       "colour": "blue",
       "tagline": "Stand out everywhere you go.",
       "perks": [
-        "Everything in VIP+",
+        "Everything in robin",
         "Exclusive MVP chat prefix",
         "Custom join message",
         "Extra claim blocks",
-        "MVP role in Discord"
+        "Dove role in Discord"
       ],
       "featured": true,
       "badge": "Best value"
     },
     {
-      "name": "GOD",
-      "price": { "INR": 1799, "USD": 19.99 },
+      "name": "Fruit+",
+      "price": { "INR": 699, "USD": 7.69 },
       "colour": "red",
       "tagline": "The full package for serious players.",
       "perks": [
-        "Everything in MVP",
+        "Everything in Dove",
         "Unlimited /home slots",
         "Cosmetic pet and particle trail",
         "Early access to new features",
