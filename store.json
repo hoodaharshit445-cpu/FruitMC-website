@@ -85,10 +85,10 @@
           "name": "20,000 coins",
           "amount": "20K",
           "image": "assets/coin.png",
-          "price": { "INR": 799, "USD": 9.99 },
+          "price": { "INR": 1199, "USD": 12.99 },
           "colour": "red",
           "tagline": "Get Rich, Get Fruity. 20K Coins Await!.",
-          "perks": ["12,000 in-game coins", "+2,000 bonus coins"],
+          "perks": ["20,000 in-game coins", "+5,000 bonus coins"],
           "featured": false,
           "badge": "Best value"
         }
