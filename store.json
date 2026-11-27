@@ -146,11 +146,26 @@
 
   "ranks": [
     {
-      "name": "SWAN",
+      "name": "Elite",
       "price": { "INR": 99, "USD": 1.09 },
+      "colour": "gold",
+      "tagline": "A fresh start, a new legacy.",
+      "perks": [
+        "Coloured name in chat",
+        "2 extra /home slots",
+        "/fly in the lobby",
+        "Elite role in Discord"
+      ],
+      "featured": false,
+      "badge": ""
+    },
+    {
+      "name": "SWAN",
+      "price": { "INR": 149, "USD": 1.59 },
       "colour": "gold",
       "tagline": "A perfect first step to support the server.",
       "perks": [
+        "Everything in Elite",
         "Coloured name in chat",
         "2 extra /home slots",
         "/fly in the lobby",
